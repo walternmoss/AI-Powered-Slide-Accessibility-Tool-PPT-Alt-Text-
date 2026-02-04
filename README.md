@@ -69,6 +69,3 @@ python PPT_AltText.py ./Lectures_Folder -d "Biochemistry"
 * **Lock Files:** Ensure PowerPoint is closed before running the script to avoid "temporary file" errors.
 
 ---
-
-
-
